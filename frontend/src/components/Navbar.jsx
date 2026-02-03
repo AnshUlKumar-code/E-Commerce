@@ -23,9 +23,9 @@ export default function Navbar() {
   };
 
   const goToAdmin = () => {
-    window.location.href = "https://admin.foreverbuy.in/login";
-    // OR if localhost:
-    // window.location.href = "http://localhost:5174/login";
+    
+  
+    window.location.href = "http://localhost:5174/login";
   };
 
   return (
