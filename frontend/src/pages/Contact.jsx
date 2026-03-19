@@ -17,7 +17,7 @@ export default function Contact() {
           <p className="font-semibold text-xl text-gray-600">Our Store</p>
           <p className="text-gray-500"> 221 Maple Street,<br /> Apt 4BSpringfield,<br /> IL 62704 USA</p>
           <p className="text-gray-500">Tel: (415) 555-0132 <br /> Email: xyz@gmail.com</p>
-          <p className="font-semibold text-xl text-gray-600">Careers at Forever</p>
+          <p className="font-semibold text-xl text-gray-600">Careers at Redra</p>
           <p className="text-gray-500">Learn more about out teams and job opening</p>
           <button className="border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500  ">Explore Jobs</button>
           

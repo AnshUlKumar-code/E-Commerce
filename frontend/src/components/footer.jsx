@@ -32,7 +32,7 @@ export default function Footer(){
             </div>
             <div>
                 <hr />
-                <p className="py-5 text-sm text-center">Copyright 2026@ forever - All Right  Reserved</p>
+                <p className="py-5 text-sm text-center">Copyright 2026@ Readra - All Right  Reserved</p>
             </div>
         </div>
 

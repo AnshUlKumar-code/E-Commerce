@@ -13,13 +13,13 @@ export default function About() {
 
       </div>
       <div className="my-10 flex flex-col md:flex-row gap-16">
-        <img src={assets.about_img} className="w-full md:max-w-[450px]" alt="" />
+        <img src={assets.logo} className="w-full md:max-w-[450px]" alt="" />
         <div className="flex flex-col justify-center gap-6 md:w-2/4 text-gray-600">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, velit adipisci incidunt pariatur dolore deleniti? Dignissimos, libero! Quidem, magni ad.</p>
+       <p>Welcome to our online bookstore — your one-stop destination for discovering stories, knowledge, and inspiration.
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio molestias harum a maxime debitis possimus voluptates veniam inventore, libero rerum laudantium blanditiis necessitatibus atque obcaecati quo sequi laborum consequuntur corporis.</p>
-        <b className="text-gray-800">Our Mission</b>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio labore dolore qui quasi repellendus similique odit autem dolorum repudiandae beatae.</p>
+We believe that books have the power to transform lives. Whether you're a passionate reader, a student, or someone exploring new ideas, our platform is designed to bring the world of books closer to you. From timeless classics to the latest bestsellers, we offer a carefully curated collection across a wide range of genres including fiction, non-fiction, academic, self-help, and more.
+
+Our mission is simple: to make reading accessible, affordable, and enjoyable for everyone. We aim to create a seamless shopping experience where you can easily browse, discover, and purchase your favorite books from the comfort of your home.</p>
         </div>
 
       </div>

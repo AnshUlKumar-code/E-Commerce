@@ -22,7 +22,7 @@ export default function Hero(){
 
             </div>
             {/* Hero right side */}
-            <img src={assets.hero_img} className="w-full sm:w-1/2" alt="" />
+            <img src="https://png.pngtree.com/png-vector/20231020/ourmid/pngtree-watercolor-library-book-clip-art-png-image_10285452.png" className="w-full sm:w-1/2" alt="" />
         </div>
     )
 }
