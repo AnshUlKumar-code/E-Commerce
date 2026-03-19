@@ -18,16 +18,16 @@ image:{
 },
 category:{
     type:String,
-    required:true
+    // required:true
 },
 subCategory:{
      type:String,
-    required:true
+    // required:true
 
 },
 sizes:{
      type:Array,
-    required:true
+    // required:true
 },
 bestSeller:{
     type:Boolean
